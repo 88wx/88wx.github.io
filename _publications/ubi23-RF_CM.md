@@ -1,7 +1,7 @@
 ---
 title: "Rf-cm: Cross-modal framework for rf-enabled few-shot human activity recognition"
 collection: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/ubi23-RF_CM.md
 excerpt: 'This paper proposes RF-CM, a general cross-modal human activity recognition framework.  The key enabler is to leverage the knowledge learned from a massive WiFi dataset to build a radar-based HAR system with limited radar samples. It can significantly reduce the overhead of training data collection.'
 date: 2023-03-28
 #venue: 'Journal 1'

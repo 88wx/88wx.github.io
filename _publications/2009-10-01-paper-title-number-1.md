@@ -6,6 +6,6 @@ excerpt: 'This paper proposes RF-CM, a general cross-modal human activity recogn
 date: 2023-03-28
 #venue: 'Journal 1'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://XuanWang-kate.github.io/files/RF-CM.pdf'
+paperurl: 'http://XuanWang-kate.github.io/files/ubi23-RF-CM.pdf'
 #citation: 'Xuan Wang (2023). &quot;Rf-cm: Cross-modal framework for rf-enabled few-shot human activity recognition.&quot; <i>Journal 1</i>. 1(1).'
 ---
